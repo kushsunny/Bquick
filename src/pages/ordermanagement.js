@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { FaExclamationCircle } from "react-icons/fa";
-import { NavLink } from "react-router-dom";
+import src1 from '../photpos/7 Onion Pizza.jpg'
+
 
 const OrderManagement = () => {
   // Manage the tabs: New, Preparing, Ready, etc.
@@ -101,6 +102,9 @@ const OrderManagement = () => {
             </div>
           )}
         </div> */}
+
+                {/* Item 1 */}
+
         <div className="flex flex-wrap">
           < div class="relative flex flex-col my-6 bg-white shadow-sm border border-slate-200 rounded-lg w-96">
             <div class="relative h-56 m-2.5 overflow-hidden object-fit text-white rounded-md">
@@ -126,6 +130,9 @@ const OrderManagement = () => {
               </button>
             </div>
           </div>
+
+            {/* Item 2 */}
+
           <div class="relative flex flex-col my-6 bg-white shadow-sm border border-slate-200 rounded-lg w-96">
             <div class="relative h-56 m-2.5 overflow-hidden text-white rounded-md">
               <img
@@ -155,7 +162,7 @@ const OrderManagement = () => {
           <div class="relative flex flex-col my-6 bg-white shadow-sm border border-slate-200 rounded-lg w-96">
             <div class="relative h-56 m-2.5 overflow-hidden text-white rounded-md">
               <img
-                src="https://images.unsplash.com/photo-1540553016722-983e48a2cd10?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80"
+                src="../photpos/"
                 alt="card-image"
               />
             </div>
