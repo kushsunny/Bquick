@@ -1,6 +1,6 @@
-const dessert = [
+const Dessert = [
     {
-        "id": "01",
+        "id": "Dessert01",
         "name": "Chocolava-Cake",
         "image": "Onion Pizza.jpg",
         "price": "100", 

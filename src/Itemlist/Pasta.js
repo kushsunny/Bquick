@@ -1,30 +1,30 @@
-const pasta = [
+const Pasta = [
         {
-            "id": "01",
+            "id": "Pasta01",
             "name": "White Sauce Pasta",
             "image": "Onion Pizza.jpg",
             "price": "100", 
         },
         {
-            "id": "02",
+            "id": "Pasta02",
             "name": "Red Sauce Pasta",
             "image": "Onion Pizza.jpg",
             "price": "100", 
         },
         {
-            "id": "03",
+            "id": "Pasta03",
             "name": "Smoky Pasta",
             "image": "Onion Pizza.jpg",
             "price": "100", 
         },
         {
-            "id": "04",
+            "id": "Pasta04",
             "name": "Penne Sauce Pasta",
             "image": "Onion Pizza.jpg",
             "price": "100", 
         },
         {
-            "id": "05",
+            "id": "Pasta05",
             "name": "Pink Dance Pasta",
             "image": "Onion Pizza.jpg",
             "price": "100", 

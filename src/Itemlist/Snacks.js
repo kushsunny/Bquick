@@ -1,36 +1,36 @@
-const snacks=[
+const Snack =[
     {
-        "id": "01",
+        "id": "Snack01",
         "name": "French Fries",
         "image": "Onion Pizza.jpg",
         "price": "100", 
     },
     {
-        "id": "02",
+        "id": "Snack02",
         "name": "Cheese French Fries",
         "image": "Onion Pizza.jpg",
         "price": "100", 
     },
     {
-        "id": "03",
+        "id": "Snack03",
         "name": "Peri Peri Salted French Fries",
         "image": "Onion Pizza.jpg",
         "price": "100", 
     },
     {
-        "id": "04",
+        "id": "Snack04",
         "name": "Masala Maggi",
         "image": "Onion Pizza.jpg",
         "price": "100", 
     },
     {
-        "id": "05",
+        "id": "Snack05",
         "name": "Veg Butter Maggi",
         "image": "Onion Pizza.jpg",
         "price": "100", 
     },
     {
-        "id": "06",
+        "id": "Snack06",
         "name": "Paneer Butter Maggi",
         "image": "Onion Pizza.jpg",
         "price": "100", 
