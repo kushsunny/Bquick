@@ -1,24 +1,24 @@
-const burger  = [
+const Burger = [
     {
-        "id": "01",
+        "id": "Burger01",
         "name": "Veg Burger",
         "image": "Onion Pizza.jpg",
         "price": "100", 
     },
     {
-        "id": "02",
+        "id": "Burger02",
         "name": "Cheese Burger",
         "image": "Onion Pizza.jpg",
         "price": "100", 
     },
     {
-        "id": "03",
+        "id": "Burger03",
         "name": "Paneer Cheese Burger",
         "image": "Onion Pizza.jpg",
         "price": "100", 
     },
     {
-        "id": "04",
+        "id": "Burger04",
         "name": "Aloo Tikki Burger",
         "image": "Onion Pizza.jpg",
         "price": "100", 
